@@ -1,4 +1,5 @@
 // Uses satellite.js if available. Falls back to limited info if not.
+// INSTALL SATELLITE.JS -- npm install satellite.js
 async function getISSData(lat, lon) {
   try {
     const tleRes = await fetch('https://celestrak.org/NORAD/elements/stations.txt');
