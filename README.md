@@ -1,5 +1,4 @@
-# SpacePulse AI
-
+![Landing](assets/screenshots/hero.png)
 > **"What is happening above you right now, and why should you care?"**
 
 SpacePulse AI is a real-time space weather intelligence platform that turns complex astronomical data into personalized, profession-aware insights. Built for pilots, photographers, farmers, researchers, and everyday people — not just astronomers.
@@ -17,22 +16,23 @@ Select your profession, and our Groq-powered AI engine cross-references live spa
 ## Screenshots
 
 ### Landing Page
-![Landing](assets/screenshots/hero.png)
+![Landing](assets/screenshots/1.png)
 
 ### Dashboard — Mission Control
-![Dashboard](assets/screenshots/1.png)
-![Dashboard Impact](assets/screenshots/2.png)
+![Dashboard](assets/screenshots/2.png)
+![Dashboard Impact](assets/screenshots/3.png)
 
 ### AI Impact Analysis
-![Impact](assets/screenshots/3.png)
-![Heatmap](assets/screenshots/4.png)
+![Impact](assets/screenshots/4.png)
 
 ### Sky Feed
 ![Sky Feed](assets/screenshots/5.png)
 
-### AI Night Planner
-![Night Planner](assets/screenshots/6.png)
-![Planner Timeline](assets/screenshots/7.png)
+### AI Night Planner & AI Chat
+<p>
+  <img src="assets/screenshots/6.png" width="49%"/>
+  <img src="assets/screenshots/7.png" width="49%"/>
+</p>
 
 ### Sky Chart
 ![Sky Chart](assets/screenshots/8.png)
