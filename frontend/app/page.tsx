@@ -127,7 +127,7 @@ function Navbar() {
           { label: 'Dashboard', href: '/dashboard' },
           { label: 'Sky Feed', href: '/sky-feed' },
           { label: 'Night Planner', href: '/planner' },
-          { label: 'AI Chat', href: '/chat' },
+          { label: 'AI Chat', href: '/assistant' },
           { label: 'Sky Chart', href: '/locator' },
         ].map((link) => (
           <Link key={link.href} href={link.href} style={{
